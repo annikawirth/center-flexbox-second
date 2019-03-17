@@ -115,7 +115,7 @@ body {
     width: 100%;
     display:flex;
     justify-content: center;
-    align-items: : center;
+    align-items: center;
 }
 
 #content {
@@ -133,7 +133,7 @@ body {
     height: 300px;
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
 }
 
 #content p span {
